@@ -1,12 +1,12 @@
-# ethdenver-aa
-The first modular implementation of Account Abstraction (ERC4337) using (modified) Diamond Proxies (ERC2535).
+# PoC for modular smart contract wallets using the Diamond Proxy Pattern
+The first modular implementation of Account Abstraction (ERC4337) using Diamond Proxies (ERC2535).
 
 ![photo_2023-03-05 10 45 00](https://user-images.githubusercontent.com/8796522/222976894-8368fcfa-cefb-4d62-b75b-8a877322510f.jpeg)
 
 You can watch a 2 minute pitch and demo [here](https://www.youtube.com/watch?v=kiAcFDuTYw8).
 
 ## Team
-Hackers from Oxford Blockchain Society - with funding and support from EduDAO and SozuHaus
+Hackers from Oxford Blockchain Society - with funding and support from EduDAO, SozuHaus and HomeDAO
 - Alex Cheema
 - Konrad Kopp
 - Mohamed Baioumy
