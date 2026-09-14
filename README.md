@@ -1,4 +1,7 @@
 # PoC for modular smart contract wallets using the Diamond Proxy Pattern
+
+> **No longer maintained.** This repository is kept for reference. For new projects, use the [Rhinestone SDK](https://docs.rhinestone.dev).
+
 The first modular implementation of Account Abstraction (ERC4337) using Diamond Proxies (ERC2535).
 
 ![photo_2023-03-05 10 45 00](https://user-images.githubusercontent.com/8796522/222976894-8368fcfa-cefb-4d62-b75b-8a877322510f.jpeg)
